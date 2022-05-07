@@ -1,0 +1,16 @@
+{
+  "name": "lsznpmdemo",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lsz",
+  "license": "ISC",
+  "keywords": [
+    "throttle",
+    "罗水洲",
+    "lsz"
+  ]
+}
